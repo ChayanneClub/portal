@@ -1,0 +1,21 @@
+.imagen{
+    background-image: url(../images/imagenes1/fondo.png);
+  }.imagen2{
+    background-image: url(../images/imagenes2/fondo2.png)
+  }.imagen3{
+    background-image: url(../images/imagenes3/fondo3.png);
+  }.imagen4{
+    background-image: url(../images/imagenes4/fondo4.png);
+  }.imagen5{
+    background-image: url(../images/imagenes5/fondo.png);
+  }.imagen6{
+    background-image: url(../images/imagenes6/fondo.png);
+  }.imagen7{
+    background-image: url(../images/imagenes7/fondo.png);
+      
+  }.imagen8{
+      background-image: url(../images/imagenes6/fondo.png);
+  }.feed3{
+    background-image: url(../images/imagenes3/feed3.png);
+  }
+
